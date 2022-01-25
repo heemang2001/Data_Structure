@@ -18,5 +18,8 @@
     <ClCompile Include="회사에 있는 사람.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문제집.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

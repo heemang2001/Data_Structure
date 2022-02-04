@@ -35,8 +35,6 @@ int main()
 	{
 		int start = vecQuestion[i].first;
 		int end = vecQuestion[i].second;
-
-
 	}
 
 	for (int i = 0; i < vecAnswer.size(); i++)
